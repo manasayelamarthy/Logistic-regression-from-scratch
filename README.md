@@ -1,4 +1,4 @@
-# training-logistic-regression-algorithm-from-scratch
+# Training-logistic-regression-algorithm-from-scratch
 
 
 ## Overview
@@ -17,7 +17,7 @@ Visualization of results
 
 ## Dataset
 
-The dataset used in this project consists of numerical features and corresponding class labels. Preprocessing steps include:
+The Dataset is taken from kaggle which is titanic_dataset.The dataset used in this project consists of numerical features and corresponding class labels. Preprocessing steps include:
 
 Handling missing values
 
